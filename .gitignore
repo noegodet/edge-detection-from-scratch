@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+
+# Input images and generated figures stay local (course images are not mine to publish).
+# Only the selected figures in docs/ are committed.
+images/
+outputs/
